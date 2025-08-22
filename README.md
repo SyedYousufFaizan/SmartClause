@@ -1,4 +1,4 @@
-# SmartClause (React, Tailwind, Typescrip, Node js and Express js)
+# SmartClause (AI powered contract analyzer)
 ## Overview
 SmartClause is an AI-powered contract analyzer that scans uploaded agreements, identifies risky clauses, assigns a risk level (high/medium/low), and suggests improvements. It uses a React frontend with a clean UI and an Express/Node backend to process and analyze the contract text. And uses Mistral's LLM APIs under the hood
 ## Features
