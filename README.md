@@ -34,11 +34,11 @@ cd backend
 npm install
 ```
 
-### getting the api key from mistral.ai
+### Getting the api key from mistral.ai
 Go to https://console.mistral.ai/home, setup an account and get an api key from the  `Workspace > api keys` section on the sidebar
 Copy the api key
 
-### setting up the .env file
+### Setting up the .env file
 in the backend directory rename the .envExample file to .env and paste the api key in the mentioned space
 
 ### Start the backend server
